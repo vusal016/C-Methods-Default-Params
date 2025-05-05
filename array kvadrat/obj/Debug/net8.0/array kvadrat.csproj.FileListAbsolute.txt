@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\bin\Debug\net8.0\array kvadrat.exe
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\bin\Debug\net8.0\array kvadrat.deps.json
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\bin\Debug\net8.0\array kvadrat.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\bin\Debug\net8.0\array kvadrat.dll
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\bin\Debug\net8.0\array kvadrat.pdb
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\array kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\array kvadrat.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\array kvadrat.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\array kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\array kvadrat.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\array kvadrat.dll
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\refint\array kvadrat.dll
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\array kvadrat.pdb
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\array kvadrat.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Pb305\array kvadrat\obj\Debug\net8.0\ref\array kvadrat.dll

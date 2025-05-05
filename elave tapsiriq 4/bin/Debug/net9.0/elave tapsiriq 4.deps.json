@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "elave tapsiriq 4/1.0.0": {
+        "runtime": {
+          "elave tapsiriq 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "elave tapsiriq 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
