@@ -1,4 +1,0 @@
-C:\Users\User\OneDrive\Desktop\tapsiriqlar\arraya elave verriable teyini\obj\Debug\net9.0\arraya elave verriable teyini.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\OneDrive\Desktop\tapsiriqlar\arraya elave verriable teyini\obj\Debug\net9.0\arraya elave verriable teyini.AssemblyInfoInputs.cache
-C:\Users\User\OneDrive\Desktop\tapsiriqlar\arraya elave verriable teyini\obj\Debug\net9.0\arraya elave verriable teyini.AssemblyInfo.cs
-C:\Users\User\OneDrive\Desktop\tapsiriqlar\arraya elave verriable teyini\obj\Debug\net9.0\arraya elave verriable teyini.csproj.CoreCompileInputs.cache
