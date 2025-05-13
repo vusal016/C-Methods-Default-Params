@@ -8,8 +8,8 @@ namespace First_Class
 {
     public class Shape
     {
-        string color;
-        int area;
+       public string color;
+       public double area;
         public Shape(string color)
         {
             this.color = color;

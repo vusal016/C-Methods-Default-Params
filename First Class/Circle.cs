@@ -13,6 +13,7 @@ namespace First_Class
         public Circle(int radius,string color):base (color)
         {
             this.radius = radius;
+            this.area = 3.14 * radius * radius;
         }
         public void Area()
         {

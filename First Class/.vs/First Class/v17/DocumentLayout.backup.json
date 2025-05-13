@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{887EE6E2-3FF0-43B8-AFD3-74EF46F61438}|First Class.csproj|c:\\users\\user\\onedrive\\desktop\\tapsiriqlar\\first class\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T14:22:54.35Z",
               "IsPinned": true,
@@ -65,57 +65,56 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T14:23:41.866Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Rectangle.cs*",
-              "RelativeToolTip": "Rectangle.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBcAAABCAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA/wBcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T20:29:29.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Account.cs",
               "RelativeDocumentMoniker": "Account.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Account.cs",
               "RelativeToolTip": "Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T20:27:08.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Circle.cs",
               "RelativeDocumentMoniker": "Circle.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Circle.cs",
               "RelativeToolTip": "Circle.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T20:05:24.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Shape.cs",
               "RelativeDocumentMoniker": "Shape.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\tapsiriqlar\\First Class\\Shape.cs",
               "RelativeToolTip": "Shape.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T19:47:37.081Z",
               "EditorCaption": ""
@@ -130,8 +129,7 @@
               "RelativeToolTip": "Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:23:23.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T14:23:23.326Z"
             }
           ]
         }
