@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\bin\Debug\net9.0\Struct.record.exe
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\bin\Debug\net9.0\Struct.record.deps.json
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\bin\Debug\net9.0\Struct.record.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\bin\Debug\net9.0\Struct.record.dll
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\bin\Debug\net9.0\Struct.record.pdb
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\Struct.record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\Struct.record.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\Struct.record.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\Struct.record.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\Struct.record.sourcelink.json
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\Struct.record.dll
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\refint\Struct.record.dll
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\Struct.record.pdb
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\Struct.record.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\tapsiriqlar\Struct.record\obj\Debug\net9.0\ref\Struct.record.dll
