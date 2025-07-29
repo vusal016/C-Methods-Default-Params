@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#inputs {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-evenly;
+}
+
+.number1 input {
+    width: 450px;
+    height: 25px;
+}
+
+.number2 input {
+    width: 450px;
+    height: 25px;
+}
+
+#operations {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    gap: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.emeliyyatlar button {
+    width: 160px;
+    height: 30px;
+}
+#Toplama button{
+    background-color: blue;
+    cursor: pointer;
+}
+#Cixma button{
+    background-color: red;
+}
+#Vurma button{
+    background-color: green;
+}
+#Bolme button{
+    background-color: orange;
+}
+
+#results {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.netice input{
+    width: 450px;
+    height: 25px;
+}
