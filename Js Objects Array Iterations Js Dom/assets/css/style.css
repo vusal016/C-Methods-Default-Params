@@ -34,18 +34,25 @@
     width: 160px;
     height: 30px;
 }
-#Toplama button{
+
+#Toplama button {
     background-color: blue;
     cursor: pointer;
 }
-#Cixma button{
+
+#Cixma button {
     background-color: red;
+    cursor: pointer;
 }
-#Vurma button{
+
+#Vurma button {
     background-color: green;
+    cursor: pointer;
 }
-#Bolme button{
+
+#Bolme button {
     background-color: orange;
+    cursor: pointer;
 }
 
 #results {
@@ -54,7 +61,7 @@
     margin-top: 40px;
 }
 
-.netice input{
+.netice input {
     width: 450px;
     height: 25px;
 }
